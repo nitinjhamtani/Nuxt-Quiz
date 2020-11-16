@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "What is your full name",
+      "type": "text",
+      "options": null
+    },
+    {
+      "id": 2,
+      "questionText": "What do you want to drink?",
+      "type": "Radio",
+      "options": [
+        {
+          "id": "10",
+          "optionText": "Coffee",
+          "score": "2"
+        },
+        {
+          "id": "20",
+          "optionText": "Tea",
+          "score": "2"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "Where are you come from?",
+      "type": "Radio",
+      "options": [
+        {
+          "id": "30",
+          "optionText": "UAE",
+          "score": "1"
+        },
+        {
+          "id": "40",
+          "optionText": "USA",
+          "score": "0"
+        },
+        {
+          "id": "50",
+          "optionText": "India",
+          "score": "2"
+        },
+        {
+          "id": "60",
+          "optionText": "Pakistan",
+          "score": "5"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "Please choose your favorite IDE",
+      "type": "checkbox",
+      "options": [
+        {
+          "id": "80",
+          "optionText": "Visual Studio",
+          "score": ""
+        },
+        {
+          "id": "90",
+          "optionText": "Visual Studio Code",
+          "score": ""
+        },
+        {
+          "id": "100",
+          "optionText": "Atom",
+          "score": ""
+        },
+        {
+          "id": "110",
+          "optionText": "XCode",
+          "score": ""
+        },
+        {
+          "id": "120",
+          "optionText": "Android Studio",
+          "score": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "Do you use VSCode?",
+      "type": "Radio",
+      "options": [
+        {
+          "id": "130",
+          "optionText": "Yes",
+          "score": "1"
+        },
+        {
+          "id": "140",
+          "optionText": "No",
+          "score": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "Please rate yourself in javascript?",
+      "type": "checkbox",
+      "options": [
+        {
+          "id": "150",
+          "optionText": "1",
+          "score": "1"
+        },
+        {
+          "id": "160",
+          "optionText": "2",
+          "score": "2"
+        },
+        {
+          "id": "170",
+          "optionText": "3",
+          "score": "3"
+        },
+        {
+          "id": "180",
+          "optionText": "4",
+          "score": "4"
+        },
+        {
+          "id": "190",
+          "optionText": "5",
+          "score": "5"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "What are your favorite programming languages or frameworks?",
+      "type": "checkbox",
+      "options": [
+        {
+          "id": "200",
+          "optionText": "C/C++",
+          "score": "1"
+        },
+        {
+          "id": "210",
+          "optionText": "C#.NET",
+          "score": "1"
+        },
+        {
+          "id": "220",
+          "optionText": "Javascript",
+          "score": "1"
+        },
+        {
+          "id": "230",
+          "optionText": "React.js",
+          "score": "1"
+        },
+        {
+          "id": "240",
+          "optionText": "Vue.js",
+          "score": "1"
+        },
+        {
+          "id": "250",
+          "optionText": "Ember.js",
+          "score": "1"
+        }
+      ]
+    }
+  ]
+}
